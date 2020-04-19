@@ -14,5 +14,5 @@ Dependencies:
  - Pytorch (version 0.4+)
  
 This repository will be updated with following future Works:
-  -[] Adding more images 
-  -[] Using more networks
+   - Adding more images 
+   - Using more networks
