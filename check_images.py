@@ -86,7 +86,7 @@ def main():
     print_results(results, results_stats, in_arg.arch, True, True)
 
     end_time = time()
-    tot_time = end_time - start_time #calculate difference between end time and start time
+    tot_time = end_time - start_time 
     print("\n** Total Elapsed Runtime:",
           str(int((tot_time/3600)))+":"+str(int((tot_time%3600)/60))+":"
           +str(int((tot_time%3600)%60)) )
