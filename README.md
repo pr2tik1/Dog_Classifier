@@ -4,15 +4,21 @@ The image classification is done using pretrained CNNs which is a one of the pro
 
 Transfer learning is usually expressed through the use of pre-trained models. A pre-trained model is a model that was trained on a large benchmark dataset (ImageNet in this case) to solve a problem similar to the one that we solve. 
 
-CNNs used and compared:
+CNNs used :
   - VGG16
   - AlexNet
   - ResNet
     
-Dependencies:
+## Dependencies:
  - Python 3.6+
  - Pytorch (version 0.4+)
  
-This repository will be updated with following future Works:
+## Future Works:
    - Adding more images 
    - Using more networks
+
+## Author 
+[Pratik Kumar](https://www.linkedin.com/in/pratik-kumar98/)
+
+## Credits:
+  - Udacity Community
