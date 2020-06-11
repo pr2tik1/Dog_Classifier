@@ -11,8 +11,7 @@ CNNs used :
   - ResNet
 
 ## Images
-
-![alt text](https://github.com/pr2tik1/dog-classifier/blob/master/pet_images/Poodle_07927.jpg) ![alt text](https://github.com/pr2tik1/dog-classifier/blob/master/pet_images/Beagle_01141.jpg) 
+![alt text](https://github.com/pr2tik1/dog-classifier/blob/master/pet_images/Beagle_01141.jpg) 
 
 
 ## [Project 2](https://github.com/pr2tik1/dog-classifier/blob/master/dog_app.ipynb) 
@@ -28,4 +27,7 @@ In this to classify dog breeds pretrained network ResNet and custom net is devel
 
 ## Author 
 [Pratik Kumar](https://www.linkedin.com/in/pratik-kumar98/)
+
+## References: 
+Udacity Deep Learning Nano Degree 
 
