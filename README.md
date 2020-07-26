@@ -9,7 +9,7 @@ Transfer learning is usually expressed through the use of pre-trained models. A 
 Notebook exploring torchvision pretrained models for image classification.
 View [here](https://github.com/pr2tik1/dog-classifier/blob/master/transfer-learning.ipynb)
 
-## [Project 1](https://github.com/pr2tik1/dog-classifier/blob/master/project-1)
+## [Project 1](https://github.com/pr2tik1/dog-classifier/tree/master/project-1)
 
 CNNs used :
   - VGG16
@@ -31,7 +31,7 @@ chmod u+r+x run_models_batch_uploaded.sh
 
 ### Images
 <p align = "center">
-<img src = "https://github.com/pr2tik1/dog-classifier/project-1/blob/master/pet_images/Beagle_01141.jpg">
+<img src = "https://github.com/pr2tik1/dog-classifier/blob/master/project-1/pet_images/Basenji_00974.jpg">
 </p> 
 
 
