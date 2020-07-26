@@ -1,6 +1,10 @@
-# Image Classification
+# Image Classification using Transfer Learning
 
 Used pretrained CNNs and custom CNNs to classify dog images in [project 1](https://github.com/pr2tik1/dog-classifier/blob/master/check_images.py) and dog breeds in [project 2](https://github.com/pr2tik1/dog-classifier/blob/master/dog_app.ipynb). Transfer learning is a popular method in computer vision because it allows us to build accurate models in a timesaving way. These projects were in my Udacity's Nanodegree courses. This can be referred for educational purposes.
+
+## Transfer Learning Notebook
+Notebook exploring torchvision pretrained models for image classification.
+View [here](https://github.com/pr2tik1/dog-classifier/blob/master/transfer-learning.ipynb)
 
 ## [Project 1](https://github.com/pr2tik1/dog-classifier/blob/master/check_images.py)
 Transfer learning is usually expressed through the use of pre-trained models. A pre-trained model is a model that was trained on a large benchmark dataset (ImageNet in this case) to solve a problem similar to the one that we solve. 
