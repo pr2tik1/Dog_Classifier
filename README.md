@@ -7,7 +7,7 @@ Transfer learning is usually expressed through the use of pre-trained models. A 
 
 ## Transfer Learning Notebook
 Notebook exploring torchvision pretrained models for image classification.
-View [here](https://github.com/pr2tik1/dog-classifier/blob/master/transfer-learning.ipynb)
+View [here](https://github.com/pr2tik1/dog-classifier/blob/master/model-exploration.ipynb)
 
 ## [Project 1](https://github.com/pr2tik1/dog-classifier/tree/master/project-1)
 
